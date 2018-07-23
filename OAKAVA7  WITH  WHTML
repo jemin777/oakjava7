@@ -1,0 +1,79 @@
+WHTML  with Oakjava7  with  chdollar
+===================================
+
+This   is  OakJava7 Part-2. This is  nothing  but   using  OAKJAVA7part2   with WHTML
+
+focused   for  Vehicles  management  focused   with   Remotewebapplication.
+
+WHTML stands for  Vehicle  management
+
+
+SYNTAX:
+=======
+
+
+<WHTML>
+
+<LOGIC>
+
+public  class  <classname>
+{
+<LOCK> global  variable   declarations </LOCK>
+<HTML>  
+
+protected Shared  void  main(String  args[])
+{
+
+
+<%  MVC  or  logic  of  whtml  !>
+
+
+
+
+}
+<HTML>
+
+}
+
+</LOGIC>
+
+</WHTML>
+
+ 
+
+
+
+first.Whtml
+============
+
+<WHTML>
+
+<LOGIC>
+
+public  class  first
+{
+<LOCK> Unstable int a=100; </LOCK>
+<HTML>  
+
+protected Shared  void  main(String  args[])
+{
+
+
+HTML.displayhtml("map.html");
+
+
+
+}
+<HTML>
+
+}
+
+</LOGIC>
+
+</WHTML>
+
+
+
+
+
+ 

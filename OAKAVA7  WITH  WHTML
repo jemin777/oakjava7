@@ -73,7 +73,34 @@ HTML.displayhtml("map.html");
 </WHTML>
 
 
+first.j$ (chdollarprogram  to  be  used  with oakjava7)
+======================================================
 
+
+<?CHDollar> => starting  point of  chdollar  program
+
+<USE> <WEB>.util; => load  chdollar  util packages
+
+
+<PACK> Program5 //create namespace  program5
+{
+  
+    <CLASS> Prog // assign class name Prog
+   {
+
+  
+      public void Main()
+      {
+
+
+
+HTML.displayhtml("map.html"); // display  map.html  in the  google browser
+
+}
+
+}
+
+}
 
 
  
